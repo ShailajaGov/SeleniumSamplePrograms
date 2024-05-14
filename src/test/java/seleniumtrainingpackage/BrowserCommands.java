@@ -2,6 +2,7 @@ package seleniumtrainingpackage;
 
 public class BrowserCommands extends BasicClass{
 
+	//Checkin testing
 	public void getCommandExample()
 	{
 		driver.get("https://www.facebook.com");
